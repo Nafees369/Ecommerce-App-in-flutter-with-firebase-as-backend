@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040618492025",
+    "project_id": "my-ecommerce-app-b36f6",
+    "storage_bucket": "my-ecommerce-app-b36f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040618492025:android:3fd2e85495508b672604a8",
+        "android_client_info": {
+          "package_name": "com.example.cwt_ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JJQCM7eM09H00X-JH8Y0E-VjjQysrh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
